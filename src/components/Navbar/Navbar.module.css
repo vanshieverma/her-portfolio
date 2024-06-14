@@ -65,7 +65,7 @@
     align-items: center;
     gap: 13px;
     border-radius: 10px;
-    background: rgb(25, 55, 109);
+    background: rgba(101, 70, 105);
     background: linear-gradient(0deg,
         rgba(101, 70, 105, 0.2) 0%,
         rgba(101, 70, 105, 1) 100%);

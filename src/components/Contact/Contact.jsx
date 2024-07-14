@@ -20,11 +20,11 @@ export const Contact = () => {
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/vanshika-verma-vv">linkedin.com/vanshika-verma-vv</a>
+          <a href="https://www.linkedin.com/vanshieverma">linkedin.com/vanshieverma</a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://www.github.com/vanshikaverma13">github.com/vanshikaverma13</a>
+          <a href="https://www.github.com/vanshieverma">github.com/vanshieverma</a>
         </li>
       </ul>
     </footer>

@@ -16,8 +16,7 @@
     "description": "Provides real-time editing and previewing of HTML, CSS, and JavaScript at the same time.",
     "skills": [
       "React",
-      "JavaScript",
-      "HTML"
+      "HTML","JavaScript"
     ],
     "source": "https://github.com/vanshikaverma13/code-editor"
   },
@@ -27,8 +26,7 @@
     "description": "Utilized News API to fetch and display news articles based on various categories. ",
     "skills": [
       "React",
-      "JavaScript",
-      "HTML"
+      "HTML","JavaScript"
     ],
     "source": "https://github.com/vanshikaverma13/news-world"
   }

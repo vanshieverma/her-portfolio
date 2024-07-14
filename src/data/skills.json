@@ -8,32 +8,32 @@
       "imageSrc": "skills/css.png"
     },
     {
-      "title": "React",
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "ReactJS",
       "imageSrc": "skills/react.png"
     },
     {
-      "title": "JavaScript",
-      "imageSrc": "skills/node.png"
-    },
-    {
       "title": "MySQL",
-      "imageSrc": "skills/graphql.png"
-    },
-    {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
-    },
-    {
-      "title": "Kotlin",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "skills/mysql.png"
     },
     {
       "title": "Java",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "Kotlin",
+      "imageSrc": "skills/kotlin.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
     },
     {
       "title": "PHP",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "skills/php.png"
     }
   ]
   

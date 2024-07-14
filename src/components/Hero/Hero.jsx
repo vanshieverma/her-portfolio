@@ -1,5 +1,4 @@
 import React from "react";
-
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -20,8 +19,6 @@ export const Hero = () => {
         alt="Hero image of me"
         className={styles.heroImg}
       />
-      <div className={styles.topBlur} />
-      <div className={styles.bottomBlur} />
     </section>
   );
 };
